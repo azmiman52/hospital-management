@@ -9,4 +9,4 @@ services:
     ports:
       - "5000:5000"
     environment:
-      DATABASE_URL: postgresql://postgres.djawbrflcomjlnlrymdv:lKHEKyXzRuCMSqV2@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
+      DATABASE_URL: "YOUR_DATABASE_URL"
