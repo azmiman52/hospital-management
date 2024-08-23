@@ -27,7 +27,7 @@ Untuk mendeploy aplikasi Flask yang terhubung dengan database PostgreSQL ekstern
 
 ## Authors
 
-- Your Name - Initial work - [Ulul 'Azmi Abdullah Iman](https://github.com/azmiman52)
+- [Ulul 'Azmi Abdullah Iman](https://github.com/azmiman52)
 
 ## License
 
